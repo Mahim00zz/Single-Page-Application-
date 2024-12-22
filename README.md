@@ -19,8 +19,8 @@ A simple, interactive single-page JavaScript app where users can sign up, create
 - Sign Up Page:
 - ![Screenshot 2024-12-22 160328](https://github.com/user-attachments/assets/5da05498-de45-497d-91bb-aa0882f3856f)
 
-- Home Page: 
-![Screenshot 2024-12-22 160536](https://github.com/user-attachments/assets/5bf96a91-f211-4188-8024-b9438f8b6d6e)
+- Home Page:
+- ![Screenshot 2024-12-22 160536](https://github.com/user-attachments/assets/5bf96a91-f211-4188-8024-b9438f8b6d6e)
 
 ---
 
